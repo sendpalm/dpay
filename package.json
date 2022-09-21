@@ -1,6 +1,6 @@
 {
   "name": "dpay",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Dpay is the easiest and most secure way to accept crypto payments for your service or store.",
   "main": "dist/main.js",
   "scripts": {
